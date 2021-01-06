@@ -12,7 +12,7 @@ const client = new Commando.CommandoClient({
 })
 
 client.on('ready', () => {
-    console.log('The client is ready')
+    console.log('MENTL DEV is ready')
 
      client.registry
       .registerGroups([
