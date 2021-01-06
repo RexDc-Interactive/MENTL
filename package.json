@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js-commando": "github:discordjs/Commando",
+    "module-alias": "^2.2.2"
+  },
+  "_moduleAliases": {
+    "@root": ".",
+    "@features": "./features",
+    "@commands": "./commands",
+    "@utilities": "./utilities"
+  }
+}
